@@ -8,11 +8,8 @@ Raylib Renderer[0]
   \window[/]
   
   \Render Texture[]
-  
-    \Pixel Drawing[]
-    
-    \Image Drawing[]
-
+    #Pixel Drawing[]
+    #Image Drawing[]
     
   \drawing[]
   
