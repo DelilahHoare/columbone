@@ -1,3 +1,4 @@
+//
 int main() //Example of use of renderer
 {
 	create_window(640, 480, "Oddball Test");
